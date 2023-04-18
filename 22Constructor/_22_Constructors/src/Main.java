@@ -43,8 +43,7 @@ class User {
         this.phone = phoneNumber;
 
         // printing user input with message
-        System.out.println("Welcome back to desktop " +"User " +
-                "\n Email address - \t"
+        System.out.println("Welcome back to desktop " +"User \n Email address - \t"
                 + this.email +"\n \n ENJOY YOUR SESSION");
 
     }
